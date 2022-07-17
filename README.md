@@ -10,13 +10,8 @@ Color Changing Website<br>
 <hr>
 Screenshots<br>
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s1.png <br>
-
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s2.png <br>
-
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s3.png <br>
-
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s4.png <br>
-
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/ms1.png <br>
-
 https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/ms1.png <br>
