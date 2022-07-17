@@ -9,5 +9,5 @@ Color Changing Website<br>
 
 <hr>
 Screenshots<br>
-![First](https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s1.png?raw=true) <br>
+![First](https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s1.png?raw=true)<br>
 
