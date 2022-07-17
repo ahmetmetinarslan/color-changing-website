@@ -9,4 +9,4 @@ Color Changing Website<br>
 
 <hr>
 Screenshots<br>
-https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s1.png <br>
+![a](https://github.com/ahmetmetinarslan/color-changing-website/blob/main/screenshots/s1.png) <br>
